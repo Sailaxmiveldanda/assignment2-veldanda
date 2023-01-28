@@ -22,4 +22,4 @@ Other Teams who plays sport cricket are:
 - Royal Challengers Banglore
 - Mumbai Indians
 - Sunrisers Hyderabad 
-
+- Kolkata Knight Riders
