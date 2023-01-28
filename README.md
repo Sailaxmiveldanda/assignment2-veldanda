@@ -23,8 +23,3 @@ Other Teams who plays sport cricket are:
 - Mumbai Indians
 - Sunrisers Hyderabad 
 
-![fruits](https://user-images.githubusercontent.com/122695930/215237778-30eee1b3-f6f8-4a9c-88ae-b15521600d00.jpg)
-
-)
-
-**[passport size photo](AboutMe.md)** Open the link to view PassportSize Photo.
