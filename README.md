@@ -25,3 +25,5 @@ Other Teams who plays sport cricket are:
 - Kolkata Knight Riders
 
 ![myimage](https://github.com/Sailaxmiveldanda/assignment2-veldanda/blob/main/Passportsize%20Photo.jpeg)
+
+<https://github.com/Sailaxmiveldanda/assignment2-veldanda/blob/main/Passportsize%20Photo.jpeg>
