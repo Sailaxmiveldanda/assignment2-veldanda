@@ -17,7 +17,7 @@ Three best Players in order are:
 2. Ravindra Jadeja
 3. Ruthraj Gaikwad 
 
-- Other Teams who plays sport cricket are: 
+Other Teams who plays sport cricket are: 
 
     - Royal Challengers Banglore
     - Mumbai Indians
