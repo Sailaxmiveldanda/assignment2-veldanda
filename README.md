@@ -19,8 +19,8 @@ Three best Players in order are:
 
 Other Teams who plays sport cricket are: 
 
-    - Royal Challengers Banglore
-    - Mumbai Indians
-    - Sunrisers Hyderabad 
+- Royal Challengers Banglore
+- Mumbai Indians
+- Sunrisers Hyderabad 
 
 
