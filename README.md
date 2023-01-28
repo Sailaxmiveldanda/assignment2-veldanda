@@ -10,7 +10,7 @@ I like Sport Cricket is a team game. Crickters break the records almost in every
 
 Players Names
 
-Favourite Team that plays Cricket is Chennai Super Kings.
+Favourite Team that plays my favourite sport is Chennai Super Kings.
 
 1. MS Dhoni
 2. Ravindra Jadeja
