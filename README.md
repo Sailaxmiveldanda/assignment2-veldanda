@@ -25,4 +25,4 @@ Other Teams who plays sport cricket are:
 
 ![Passportsize Photo](https://user-images.githubusercontent.com/122695930/215236312-5df9b621-4a3a-40a7-8ae7-6c824aed63c1.jpeg)
 
-**[passport size photo](AboutMe.md)** local to the repo.
+**[passport size photo](AboutMe.md)** Open the link to view PassportSize Photo.
