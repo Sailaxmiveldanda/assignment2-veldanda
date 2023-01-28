@@ -15,9 +15,9 @@ Favourite Team that plays Cricket is Chennai Super Kings.
 2. Ravindra Jadeja
 3. Ruthraj Gaikwad 
 
-Other Teams who play sport cricket are
+- Other Teams who play sport cricket are
     - Royal Challengers Banglore
-    -  Mumbai Indiana
+    - Mumbai Indiana
     - Sunrisers Hyderabad 
 
 
