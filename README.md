@@ -24,4 +24,4 @@ Other Teams who plays sport cricket are:
 - Sunrisers Hyderabad 
 - Kolkata Knight Riders
 
-!{myimage](Passportsize Photo.jpeg)
+![myimage](Passportsize Photo.jpeg)
