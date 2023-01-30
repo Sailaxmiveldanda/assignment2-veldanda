@@ -11,14 +11,14 @@ I like Sport Cricket is a team game. Crickters break the records almost in every
 ### Players Names:
 
 Favourite Team that plays Cricket is Chennai Super Kings.
-
+-----
 Three best Players in order are: 
 1. MS Dhoni
 2. Ravindra Jadeja
 3. Ruthraj Gaikwad 
 
+-----
 Other Teams who plays sport cricket are: 
-
 - Royal Challengers Banglore
 - Mumbai Indians
 - Sunrisers Hyderabad 
