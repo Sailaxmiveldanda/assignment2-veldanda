@@ -44,5 +44,5 @@ Travelling is an amazing way to learn a lot of things in life. A lot of people a
 -----
 ### Favourite Funny Quotes
 
-> 1. “I'm sick of following my dreams, man. I'm just going to ask where they're going and hook up with ’em later."  ---- by **_MITCH HEDBERG_**
-2. “Before you marry a person, you should first make them use a computer with slow Internet to see who they really are.” ---- by **__Will Ferrell_**
+> 1. “I'm sick of following my dreams, man. I'm just going to ask where they're going and hook up with ’em later." by **Mitch Hedberg_**
+> 2. “Before you marry a person, you should first make them use a computer with slow Internet to see who they really are.” by **__Will Ferrell_**
