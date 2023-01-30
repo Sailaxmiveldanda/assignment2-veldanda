@@ -34,9 +34,15 @@ Favourite Team that plays Cricket is Chennai Super Kings.
 
 Travelling is an amazing way to learn a lot of things in life. A lot of people around the world travel every year to many places.  Travelling is an incredibly vital part of life. It is the best way to break your  routine and experience life in different ways. Moreover, it is also a good remedy for stress, anxiety and depression.
 
-|**Country**   | **Reason to Visit**                         | **Days to Stay**|
-|--------------|-------------------------------------------|-------------------|
-| Italy        | Mountains, Beaches and good Italian food  | 15 days           |
-| Australia    | Marvel at Australia's Sydney Opera House  | 10 days           |
-| Japan        | Majestic Temples, Unique castles          | 25 days           |
-| Canada       | Niagara Falls, Toronto                    | 12 days           |
+|**Country**   | **Reason to Visit**                                | **Days to Stay**|
+|--------------|----------------------------------------------------|-------------------|
+| Italy        | To Visit Mountains, Beaches and good Italian food  | 15 days           |
+| Australia    | To Visit Marvel at Australia's Sydney Opera House  | 10 days           |
+| Japan        | To Visit Majestic Temples, Unique castles          | 25 days           |
+| Canada       | To Visit Niagara Falls, Toronto                    | 12 days           |
+
+-----
+### Favourite Funny Quotes
+
+> 1. “I'm sick of following my dreams, man. I'm just going to ask where they're going and hook up with ’em later."  ---- by **_MITCH HEDBERG_**
+2. “Before you marry a person, you should first make them use a computer with slow Internet to see who they really are.” ---- by **__Will Ferrell_**
