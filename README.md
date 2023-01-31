@@ -50,7 +50,7 @@ Travelling is an amazing way to learn a lot of things in life. A lot of people a
 ----
 #### Sample PHP Code Snippet
 Sample Question: <https://stackoverflow.com/questions/2790899/how-to-check-if-a-string-starts-with-a-specified-string>
-----
+
 <?php 
   
 function startsWith($string, $startString) { 
@@ -63,5 +63,5 @@ echo startsWith("cat", "c"); // true
 echo startsWith("dog", "x"); // false
 
 ?>
-----
+
 [Click here for the Sample Snippet Reference Link](https://css-tricks.com/snippets/php/test-if-string-starts-with-certain-characters-in-php/)
