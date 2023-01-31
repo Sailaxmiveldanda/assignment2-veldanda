@@ -50,22 +50,5 @@ Travelling is an amazing way to learn a lot of things in life. A lot of people a
 ----
 #### Sample PHP Code Snippet
 Sample Question: <https://stackoverflow.com/questions/2790899/how-to-check-if-a-string-starts-with-a-specified-string>
-----
-$o-grid-default-config:(
-    columns: 12,
-    gutter: 10px,
-    min-width: 240px,
-    max-width: 1330px,
-    layouts: (
-        S: 370px,   // >=20px columns
-        M: 610px,   // >=40px columns
-        L: 850px,   // >=60px columns
-        XL:1330px,  // >=80px columns
-    ),
-    fluid: true,
-    debug: false,
-    fixed-layout: M,
-    enhanced-experience: true
-);
-----
+
 [Click here for the Sample Snippet Reference Link](https://css-tricks.com/snippets/php/test-if-string-starts-with-certain-characters-in-php/)
